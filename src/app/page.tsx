@@ -82,7 +82,7 @@ export default function Home() {
       <div className="max-w-7xl mx-auto mt-20">
         <div className="flex flex-col items-center relative z-10">
           <h1
-            className={`text-7xl max-w-3xl text-center leading-snug mb-12 ${poppins.className}`}
+            className={`text-4xl md:text-7xl max-w-3xl text-center leading-snug mb-12 ${poppins.className}`}
           >
             <Image
               src={assets.figma}
